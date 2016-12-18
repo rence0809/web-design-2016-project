@@ -1,0 +1,197 @@
+.live{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	
+}
+
+	
+
+.black{
+	background:white;
+	min-height:50px;
+	color:black;
+	text-align:center;
+	margin-top: 50px;
+}
+.whitefooter{
+	
+	min-height:50px;
+	color:black;
+	text-align:center;
+	margin-top: 50px;
+}
+
+
+.footer{
+	background:black;
+	text-align:center;
+	margin-top: 50px;
+	min-height:50px;
+	color:white;
+}
+
+
+.insta{
+	text-align:center;
+	font-size:20px;
+}
+
+
+.carousel-inner > .item > img,
+			.carousel-inner > .item > a > img {
+			width: 70%;
+			margin: auto;
+			
+			max-width:500px;
+			}
+			
+#duomo > .item > img,
+#duomo > .item > #a > img {
+			width: 70%;
+			margin: auto;
+			max-width: 280px;
+			
+			}
+			
+.travel{
+	text-align:center;
+	color:blue;
+	font-family:"Annabel";
+}
+.heading{
+	text-align:center;
+		color:white;
+}		
+		
+#slideshow { 
+    margin: auto; 
+    position: relative;
+    width:  290px;
+	height: 550px;
+    padding: 10px;
+	 	
+}	
+#slideshow > div {
+  position: absolute;
+ 
+}
+#slideshow1 { 
+    margin: auto; 
+    position: relative;
+    width:  290px;
+	height: 550px;
+    padding: 10px;
+	 	
+}	
+#slideshow1 > div {
+  position: absolute;
+ 
+}
+#slideshow2 { 
+    margin: auto; 
+    position: relative;
+    width:290px;
+	height: 550px;
+    padding: 10px;
+	  	
+}	
+#slideshow2 > div {
+  position: absolute;
+  
+}
+#slideshow3 { 
+    margin: auto; 
+    position: relative;
+    width:290px;
+	height: 550px;
+    padding: 10px;
+	 	
+}	
+#slideshow3 > div {
+  position: absolute;
+ 
+}
+.jumbotron{
+	background-image:url('italy/z1.jpg');
+	background-attachment:fixed;
+	min-height:250px;	
+}
+.jumbotron1{
+	background-image:url('italy/z2.jpg');
+	background-attachment:fixed;
+	min-height:250px;	
+}
+.jumbotron2{
+	background-image:url('italy/z3.jpg');
+	background-attachment:fixed;
+	min-height:250px;	
+}
+.jumbotron3{
+	background-image:url('italy/z4.jpg');
+	background-attachment:fixed;
+	min-height:250px;	
+}
+.jumbotron4{
+	background-image:url('italy/z5.jpg');
+	background-attachment:fixed;
+	min-height:250px;	
+}
+.jumbotron5{
+	background-image:url('italy/z6.jpg');
+	background-attachment:fixed;
+	min-height:250px;	
+}
+.jumbotron6{
+	background-image:url('italy/z7.jpg');
+	background-attachment:fixed;
+	min-height:250px;	
+}
+.jumbotron7{
+	background-image:url('italy/z8.jpg');
+	background-attachment:fixed;
+	min-height:250px;	
+}
+.jumbotron8{
+	background-image:url('paris/panorama.jpg');
+	background-attachment:fixed;
+	min-height:250px;	
+}
+.jumbotron9{
+	background-image:url('home/image.png');
+	background-attachment:fixed;
+	min-height:680px;	
+}
+.jumbotron10{
+	background-image:url('norway/norway21.jpg');
+	background-attachment:fixed;
+	min-height:200px;	
+}
+.jumbotron11{
+	background-image:url('paris/p1.jpg');
+	background-attachment:fixed;
+	min-height:200px;	
+}
+.jumbotron12{
+	background-image:url('paris/p2.jpg');
+	background-attachment:fixed;
+	min-height:200px;	
+}
+.jumbotron13{
+	background-image:url('paris/p3.jpg');
+	background-attachment:fixed;
+	min-height:200px;	
+}
+.jumbotron14{
+	background-image:url('paris/p4.jpg');
+	background-attachment:fixed;
+	min-height:200px;	
+}
+
+
+.background{
+	background:black;
+}
+
+
+
